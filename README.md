@@ -1,1 +1,1 @@
-# odin-recipes
+This website will contain recipes from the man himself, Mr. Odin.
